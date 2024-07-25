@@ -1,10 +1,8 @@
 # Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+*Crocant Store*
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/165xR63Yy9C75saQX-I_RsZV-hTrdiToei5Ave0JU1uQ/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
@@ -15,35 +13,33 @@ Equipe:
 - [Daniel Pereira Silvestre](https://github.com/dpsilvestre)
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](https://github.com/DanielaVenturi/CrocantDocumento.git)
--   Backend: [Repositório]([github.com/marcoandre/pi-backend](https://github.com/DanielaVenturi/Crocant.git)) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório]([github.com/marcoandre/pi-frontend](https://github.com/DanielaVenturi/CrocantVue.git)) e [Publicação](https://pi-frontend.herokuapp.com/)
 
+-   [Documentação](https://github.com/DanielaVenturi/CrocantDocumento.git)
+-   Backend: [Repositório]((https://github.com/DanielaVenturi/Crocant.git))
+<!-- -    e [Publicação](https://pi-backend.herokuapp.com/) -->
+-   Frontend: [Repositório]((https://github.com/DanielaVenturi/CrocantVue.git)) 
+<!-- -   e [Publicação](https://pi-frontend.herokuapp.com/) -->
+- [Figma Desktop](https://www.figma.com/design/vYBN9CHCCF8xX0ai4wH1oM/CrocantDesktop?node-id=0-1&t=bb9NoG1GhLRGogX4-1)
+- [Figma Tablet](https://www.figma.com/design/IVRHUgCwgJWsEYfleHmGR4/CrocantTablet?node-id=0-1&t=uQcGDjvFPnYnUePx-1)
+- [Figma Mobile](https://www.figma.com/design/fIm3KKC3cWDm23vNPkvp3j/CrocantMobile?node-id=0-1&t=0YZKQ5qJYN3LZ32P-1)
 
 # 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
 
-**1.1 Modelos de Sistemas**
 
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
 
-**1.1.1 Ponto de Vendas (PDV)**
 
-**Gerenciamento de vendas de uma loja virtual**
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
+**Gerenciamento de vendas de uma loja virtual de sapatos com furos**
+
+O nossos clientes, Scott Seamans, Lyndon "Duke" Hanson e George Boedecker Jr., tem uma loja chamada Croc's e, devido a qualidade de seus produtos, ela cresceu rapidamente. Recentemente, ele contratou mais funcionários para atendimento.
+Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da loja.
+Melhorar a gestão do negócio, é muito importante que ele consiga ter um amplo catálogo de modelos de Crocs, desde os clássicos até edições limitadas e lançamentos sazonais.
 
 
 
 # 2. Situação Problema
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
+
 
 <!-- -   Pesquise sobre empresas do ramo escolhido
     para entender como funcionam;
@@ -59,11 +55,14 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 
 Fundada em 2002 por três amigos: Scott Seamans, Lyndon "Duke" Hanson e George Boedecker Jr., a Crocs se destaca como uma loja especializada na comercialização de calçados Clogs. As lojas da Crocs estão espalhadas por todo o mundo, refletindo sua presença global e popularidade. Elas podem ser encontradas em shoppings, centros comerciais, outlets e também online, através do seu site oficial e de outros varejistas.Ao longo de 22 anos de existência, a Crocs consolidou sua reputação como um ponto de referência para clientes que buscam variedade, qualidade e um atendimento personalizado no segmento de calçados.
 
+
 A Crocs enfrenta desafios significativos na gestão de estoque e no atendimento ao cliente na loja online. Com um amplo catálogo de modelos de Crocs, desde os clássicos até edições limitadas e lançamentos sazonais, a empresa precisa manter um controle rigoroso do estoque e uma boa interface para garantir a disponibilidade dos produtos mais procurados e a facilidade do cliente ao comprar. A falta de solução dessas gestões muitas vezes leva à insatisfação dos clientes e à perda de vendas potenciais.
 Por isso, a equipe TLP, composta por 3 integrantes (Daniela, Beatriz e Bruna) e um estagiário (Daniel), criou o projeto de uma nova loja virtual inspirada na Crocs, a Crocant, para lidar com os principais problemas da loja virtual original.
-A partir disto, neste trabalho é proposto uma solução focada em trazer ao público de maneira simples, intuitiva e centralizada a experiência de compra em um site de uma Agência de Turismo com passagens, hotéis e pacotes.
+Este trabalho propõe uma investigação aprofundada sobre o aprimoramento de uma loja virtual, visando implementar estratégias eficazes que possam otimizar a experiência do usuário e impulsionar os resultados comerciais. Até o momento, delineamos as principais áreas de foco, incluindo a análise da navegação do site.
 
-Através dele foi possível utilizar as ferramentas e tecnologias base mais atuais do mercado, proporcionando grande experiência aos alunos do Instituto Federal Catarinense Campus Araquari.
+Ademais, é fundamental mencionar que a conclusão deste trabalho será guiada pela comparação com as metas estabelecidas inicialmente. Além disso, recomenda-se a implementação de um plano de monitoramento contínuo para garantir que as melhorias implementadas se mantenham eficazes ao longo do tempo.
+Por fim, espera-se que este estudo não apenas contribua para a otimização operacional da loja virtual em questão, mas também forneça conhecimentos valiosos aos integrantes da equipe.
+
 
 
 
@@ -73,26 +72,28 @@ Através dele foi possível utilizar as ferramentas e tecnologias base mais atua
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+Para otimizar a gestão da sua loja online de Crocs, estamos propondo o desenvolvimento de um software focado em resolver os principais desafios identificados. Este sistema será projetado para facilitar operações, melhorar a eficiência e oferecer controle detalhado sobre diversos aspectos do nosso negócio.
+ O software foi desenvolvido para abordar os desafios específicos enfrentados na gestão de uma loja online de Crocs. Isso inclui desde a administração do inventário até a simplificação do processo de pedidos e aprimoramento da experiência do cliente.
+O gestor/administrador terá acesso completo ao sistema para gerenciar todos os aspectos da loja, incluindo estoque, vendas, relatórios financeiros e configurações gerais. Já os funcionários, dependendo das suas funções específicas, terão acesso limitado a áreas relevantes para suas responsabilidades, como gestão de pedidos, atualização de estoque e atendimento ao cliente.
 
-**Alguns pontos importantes a se destacar são:**
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
+**3.1 Funcionalidades Principais:**
 
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+ - Pedidos e Envios: Facilitará o processamento de pedidos, desde a confirmação até o envio, com atualizações em tempo real para clientes e gestores sobre o status do pedido.
+ - Gestor/Administrador: Acesso completo a todas as funcionalidades do sistema, incluindo configurações avançadas e relatórios detalhados.
+ - Funcionários: Acesso restrito às funcionalidades necessárias para realizar suas tarefas diárias, como processamento de pedidos e atualização de informações de produtos.
+
+
 
 # 4. Modelagem de Dados
 
-(*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
+![Modelagem](img/modelagem.png "Modelagem")
 
-Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
-
-
+ - A tabela **"produto"**, contém toda a informação necessária para a identificação do produto, onde a tabela **"categoria"** se conecta a ela, onde também contém o id e o nome da categoria.
+ - A tabela **"venda"** contém o id da venda, onde identifica qual usuário efetuou a compra e qual produto foi comprado, que se conecta na tabela **"usuário"**, que mostra os dados dele, onde a tabela **"endereco_entrega"** mostra os dados para onde a encomenda vai, junto com a tabela **"cidades"** e **"estados"**.
+ - A tabela **"pedidos"**, conectada na tabela **"usuário"**, registra a data da compra e o id do mesmo.
+ - A tabela **"tamanho"**, junto da tabela categoria, se conectam na tabela dos **“produtos”**, onde elas vão identificar qual a categoria dos produtos será escolhida e o tamanho.
+ - Por fim, temos a tabela **"registro_pagamento"**, onde ela recebe os dados do pagamento, como valor, data e forma de pagamento. 
 <!--
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
