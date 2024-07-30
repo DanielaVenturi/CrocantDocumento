@@ -19,9 +19,8 @@ Links do projeto:
 <!-- -    e [Publicação](https://pi-backend.herokuapp.com/) -->
 -   Frontend: [Repositório]((https://github.com/DanielaVenturi/CrocantVue.git)) 
 <!-- -   e [Publicação](https://pi-frontend.herokuapp.com/) -->
-- [Figma Desktop](https://www.figma.com/design/vYBN9CHCCF8xX0ai4wH1oM/CrocantDesktop?node-id=0-1&t=bb9NoG1GhLRGogX4-1)
-- [Figma Tablet](https://www.figma.com/design/IVRHUgCwgJWsEYfleHmGR4/CrocantTablet?node-id=0-1&t=uQcGDjvFPnYnUePx-1)
-- [Figma Mobile](https://www.figma.com/design/fIm3KKC3cWDm23vNPkvp3j/CrocantMobile?node-id=0-1&t=0YZKQ5qJYN3LZ32P-1)
+- [Figma](https://www.figma.com/design/vYBN9CHCCF8xX0ai4wH1oM/Crocant?node-id=0-1&t=bb9NoG1GhLRGogX4-1)
+
 
 # 1. Desenvolvimento
 
