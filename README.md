@@ -15,9 +15,9 @@ Equipe:
 Links do projeto:
 
 -   [Documentação](https://github.com/DanielaVenturi/CrocantDocumento.git)
--   Backend: [Repositório]((https://github.com/DanielaVenturi/Crocant.git))
+-   Backend:(https://github.com/DanielaVenturi/Crocant.git)
 <!-- -    e [Publicação](https://pi-backend.herokuapp.com/) -->
--   Frontend: [Repositório]((https://github.com/DanielaVenturi/CrocantVue.git)) 
+-   Frontend:(https://github.com/DanielaVenturi/CrocantVue.git)
 <!-- -   e [Publicação](https://pi-frontend.herokuapp.com/) -->
 - [Figma](https://www.figma.com/design/vYBN9CHCCF8xX0ai4wH1oM/Crocant?node-id=0-1&t=bb9NoG1GhLRGogX4-1)
 
